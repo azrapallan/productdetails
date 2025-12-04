@@ -1,6 +1,6 @@
 # product.py
 
-def format_product_details(product_id, name, quantity, price):
+def product_details(product_id, name, quantity, price):
    
     return (
         f"productID: {product_id}\n"
